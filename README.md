@@ -50,3 +50,13 @@ cd lista-exercicios-python-ads
 # Execute o exercício desejado (ex: Questão 1)
 python q1_gorjeta.py
 ```
+
+## 👥 Integrantes
+
+Este projeto foi desenvolvido como atividade acadêmica do curso de Análise e Desenvolvimento de Sistemas (ADS).
+
+- **Gérson Resplandes de Sá Sousa**  
+  GitHub: [@GersonResplandes](https://github.com/GersonResplandes)
+
+- **Erdeson Monteiro Candeias**  
+  GitHub: [@Erdeson-Monteiro](https://github.com/Erdeson-Monteiro)
