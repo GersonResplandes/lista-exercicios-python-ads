@@ -19,6 +19,18 @@ Repositório contendo soluções para uma lista de exercícios práticos de fund
 | `q11_desconto.py` | Calculadora de Descontos por Categoria de Produto |
 | `q12_data.py` | Validador Lógico de Data (Dia, Mês, Ano) |
 
+> [!NOTE]
+> **Evolução da Estrutura:** Futuramente, este repositório será reorganizado por aulas/tópicos para melhor separação dos conceitos abordados. O formato previsto será semelhante a:
+> 
+> ```text
+> lista-exercicios-python-ads
+> ├── Aula 01: Variáveis, Tipos de Dados...
+> │   ├── q1_gorjeta.py
+> │   ├── q2_nomes.py
+> │   └── ...
+> ├── Aula 02 ...
+> ```
+
 ## 🚀 Tecnologias e Padrões Adotados
 - **Linguagem:** Python 3+
 - **Tipagem:** Uso extensivo de *Type Hints* nativos da linguagem para maior previsibilidade de tipo (`int`, `float`, `str`, `tuple`).
