@@ -6,18 +6,11 @@ Repositório contendo soluções para uma lista de exercícios práticos de fund
 
 | Arquivo | Questão / Funcionalidade |
 | --- | --- |
-| `q1_gorjeta.py` | Calculadora de Gorjeta |
-| `q2_nomes.py` | Analisador de Nomes (Contagem de caracteres) |
-| `q3_idade.py` | Conversor de Idade (Para meses e dias) |
-| `q4_repetidor.py` | Repetidor de Mensagens |
-| `q5_par_impar.py` | Verificador de Número (Par ou Ímpar) |
-| `q6_multa.py` | Calculadora de Multa de Trânsito |
-| `q7_viagem.py` | Calculadora de Tarifas e Custo de Viagem |
-| `q8_alistamento.py` | Analisador de Idade para Alistamento Militar |
-| `q9_emprestimo.py` | Sistema de Análise e Aprovação de Empréstimo |
-| `q10_imc.py` | Calculadora e Classificador de IMC |
-| `q11_desconto.py` | Calculadora de Descontos por Categoria de Produto |
-| `q12_data.py` | Validador Lógico de Data (Dia, Mês, Ano) |
+| `q1_reajuste.py` | Reajuste Salarial por Cargo |
+| `q2_triangulo.py` | Classificador de Triângulos |
+| `q3_pagamento.py` | Formas de Pagamento |
+| `q4_jokenpo.py` | Jogo: Pedra, Papel e Tesoura |
+| `q5_calculadora.py` | Calculadora Simples |
 
 > [!NOTE]
 > **Evolução da Estrutura:** Futuramente, este repositório será reorganizado por aulas/tópicos para melhor separação dos conceitos abordados. O formato previsto será semelhante a:
@@ -25,8 +18,8 @@ Repositório contendo soluções para uma lista de exercícios práticos de fund
 > ```text
 > lista-exercicios-python-ads
 > ├── Aula 01: Variáveis, Tipos de Dados...
-> │   ├── q1_gorjeta.py
-> │   ├── q2_nomes.py
+> │   ├── q1_reajuste.py
+> │   ├── q2_triangulo.py
 > │   └── ...
 > ├── Aula 02 ...
 > ```
@@ -48,15 +41,12 @@ git clone https://github.com/GersonResplandes/lista-exercicios-python-ads.git
 cd lista-exercicios-python-ads
 
 # Execute o exercício desejado (ex: Questão 1)
-python q1_gorjeta.py
+python q1_reajuste.py
 ```
 
-## 👥 Integrantes
+## 👤 Autor
 
-Este projeto foi desenvolvido como atividade acadêmica do curso de Análise e Desenvolvimento de Sistemas (ADS).
+Este projeto foi desenvolvido como atividade acadêmica individual do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
 - **Gérson Resplandes de Sá Sousa**  
   GitHub: [@GersonResplandes](https://github.com/GersonResplandes)
-
-- **Erdeson Monteiro Candeias**  
-  GitHub: [@Erdeson-Monteiro](https://github.com/Erdeson-Monteiro)
